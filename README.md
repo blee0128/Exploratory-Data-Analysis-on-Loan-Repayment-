@@ -1,4 +1,4 @@
-# Exploratory Data Analysis for Loan Repayment Challenge
+# Exploratory Data Analysis for Loan Repayment
 
 ## Problem 
 
